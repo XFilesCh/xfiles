@@ -12,6 +12,16 @@
     {
         "game": "DFM",
         "name": "xfiles-next-dfm-external-v6.sh",
+        "maintenance": false,
+        "changelog": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "game": "Farlight48",
+        "name": "xfiles-next-fl48-external-v1.sh",
         "maintenance": true,
         "changelog": [
             "a",
