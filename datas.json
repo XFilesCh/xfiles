@@ -1,0 +1,22 @@
+[
+    {
+        "game": "MLBB",
+        "name": "xfiles-next-ml-external-v13a.sh",
+        "maintenance": false,
+        "changelog": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "game": "DFM",
+        "name": "xfiles-next-dfm-external-v6.sh",
+        "maintenance": true,
+        "changelog": [
+            "a",
+            "b",
+            "c"
+        ]
+    }
+]
