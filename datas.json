@@ -1,0 +1,40 @@
+[
+    {
+        "game": "MLBB",
+        "name": "xfiles-next-ml-external-v13d.sh",
+        "maintenance": false,
+        "version": [
+            "211811201",
+            "2211811201"
+        ],
+        "changelog": [
+            "fix touch for pad device"
+        ]
+    },
+    {
+        "game": "DFM",
+        "name": "xfiles-next-dfm-external-v6.sh",
+        "maintenance": true,
+        "version": [
+            "1203371054901"
+        ],
+        "changelog": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "game": "Farlight48",
+        "name": "xfiles-next-fl48-external-v1.sh",
+        "maintenance": true,
+        "version": [
+            "27011509963"
+        ],
+        "changelog": [
+            "a",
+            "b",
+            "c"
+        ]
+    }
+]
