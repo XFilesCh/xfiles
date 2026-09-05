@@ -1,0 +1,7 @@
+{
+    "version": "20260708",
+    "changelog": [
+        "fix fetch loader"
+    ],
+    "downloadLink": "https://github.com/XFilesCh/xfiles/raw/refs/heads/main/xfiles-loader-v20260708.sh"
+}
