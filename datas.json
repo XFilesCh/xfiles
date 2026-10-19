@@ -1,0 +1,102 @@
+[
+    {
+        "game": "MLBB-GL (Global)",
+        "name": "MLBB-GL-v38.sh",
+        "maintenance": false,
+        "pkgName": "com.mobile.legends",
+        "version": [
+            "2.2.16.12322",
+            "22.2.16.12322"
+        ],
+        "changelog": [
+            "added esp trap selena and popol",
+            "added esp item cooldown for Won, Winter, Immortality"
+        ]
+    },
+    {
+        "game": "MLBB-GL-Advance (Global)",
+        "name": "MLBB-ADV-v38.sh",
+        "maintenance": false,
+        "pkgName": "com.mobile.legends",
+        "version": [
+            "2.2.16.12322",
+            "22.2.16.12322"
+        ],
+        "changelog": [
+            "added esp trap selena and popol",
+            "added esp item cooldown for Won, Winter, Immortality"
+        ]
+    },
+    {
+        "game": "MLBB-FT (Vietnam)",
+        "name": "MLBB-FT-v38.sh",
+        "maintenance": false,
+        "pkgName": "com.hhgame.mlbbvn",
+        "version": [
+            "2.2.16.12322"
+        ],
+        "changelog": [
+            "added esp trap selena and popol",
+            "added esp item cooldown for Won, Winter, Immortality"
+        ]
+    },
+    {
+        "game": "MLBB-US (America)",
+        "name": "MLBB-US-v38.sh",
+        "maintenance": false,
+        "pkgName": "com.mobile.legends.usa",
+        "version": [
+            "2.2.16.12322"
+        ],
+        "changelog": [
+            "added esp trap selena and popol",
+            "added esp item cooldown for Won, Winter, Immortality"
+        ]
+    },
+    {
+        "game": "MLBB-MI (GetApps)",
+        "name": "MLBB-MI-v38.sh",
+        "maintenance": false,
+        "pkgName": "com.mobilelegends.mi",
+        "version": [
+            "2.2.16.12322"
+        ],
+        "changelog": [
+            "added esp trap selena and popol",
+            "added esp item cooldown for Won, Winter, Immortality"
+        ]
+    },
+    {
+        "game": "MLBB-IN (India)",
+        "name": "MLBB-IN-v38.sh",
+        "maintenance": false,
+        "pkgName": "com.mobiin.gp",
+        "version": [
+            "2.2.16.12322"
+        ],
+        "changelog": [
+            "added esp trap selena and popol",
+            "added esp item cooldown for Won, Winter, Immortality"
+        ]
+    },
+    {
+        "game": "8 Ball Pool",
+        "name": "8BP-v7.sh",
+        "maintenance": false,
+        "pkgName": "com.miniclip.eightballpool",
+        "version": [
+            "56.31.1"
+        ],
+        "changelog": []
+    },
+    {
+        "game": "Farlight 84",
+        "name": "FR84-v38.sh",
+        "maintenance": false,
+        "pkgName": "com.miraclegames.farlight84",
+        "version": [
+            "2.11.0.0.1639369"
+        ],
+        "changelog": []
+    }
+]
